@@ -1,7 +1,7 @@
 # 🔐 Adam alme | Cybersecurity Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/galgalo/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&style=for-the-badge)](https://www.youtube.com/@143abdifatah)
+[![LinkedIn](https://www.linkedin.com/in/adam-alme/)](https://www.linkedin.com/in/adam-alme/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&style=for-the-badge)](https://www.youtube.com/@adamalme933)
 
 ---
 
