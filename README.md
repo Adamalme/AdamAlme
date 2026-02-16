@@ -1,4 +1,4 @@
-# 🔐 Adam alme | Cybersecurity Engineer
+# <a href="https://www.linkedin.com/in/joshmadakor/">Adam Alme</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 [![LinkedIn](https://www.linkedin.com/in/adam-alme/)](https://www.linkedin.com/in/adam-alme/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&style=for-the-badge)](https://www.youtube.com/@adamalme933)
@@ -6,10 +6,7 @@
 ---
 
 ## 👋 About Me
-
-🎓 **Cloud Security Engineer** — University of Washington Graduate
-🛡️ **5+ years of experience** defending cloud, hybrid, and enterprise
-environments
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving lands
 
 I specialize in **Threat Hunting, Cloud Security, and Security
 Operations**, with hands-on experience building **end‑to‑end detection
