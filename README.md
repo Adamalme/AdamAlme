@@ -135,9 +135,9 @@ response workflows (in progress)*
 ## 🌐 Connect With Me
 
 * 💼 **LinkedIn:**
-[https://www.linkedin.com/in/galgalo/](https://www.linkedin.com/in/galgalo/)
+[https://www.linkedin.com/in/galgalo/](https://www.linkedin.com/in/adam-alme/))
 * 📺 **YouTube:**
-[https://www.youtube.com/@143abdifatah](https://www.youtube.com/@143abdifatah)
+[https://www.youtube.com/@143abdifatah](https://www.youtube.com/@adamalme933)
 
 ---
 
