@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/adam-alme/">Adam Alme</a>'s IT and Cybersecurity Project Portfo
+# <a href="https://www.linkedin.com/in/adam-alme/">Adam Alme</a>'s IT and Cybersecurity Project Portfolio
 
 [![LinkedIn](https://www.linkedin.com/in/adam-alme/)](https://www.linkedin.com/in/adam-alme/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&style=for-the-badge)](https://www.youtube.com/@adamalme933)
