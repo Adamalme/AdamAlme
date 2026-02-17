@@ -34,10 +34,10 @@ enforcement
 
 ## 📂 Featured Projects
 
-### ⚠️ Vulnerability Management
+### ⚠️ Vulnerability Management Projects
 
 * 🔗 **[Vulnerability Management Program
-Implementation](https://github.com/galgalo12/Vulnerability-Management-Program-Implementation)**
+Implementation](https://github.com/Adamalme/Vulnerability-Management-Program-Implementation)**
 * 🔗 **[Programmatic Vulnerability Remediation (PowerShell &
 Bash)](https://github.com/joshcybertest/programmatic-vulnerability-remediations/blob/main/scripts/powershell-template.ps1)**
 
