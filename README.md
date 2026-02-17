@@ -39,42 +39,39 @@ enforcement
 * 🔗 **[Vulnerability Management Program
 Implementation](https://github.com/Adamalme/Vulnerability-Management-Program-Implementation)**
 * 🔗 **[Programmatic Vulnerability Remediation (PowerShell &
-Bash)](https://github.com/joshcybertest/programmatic-vulnerability-remediations/blob/main/scripts/powershell-template.ps1)**
-
-* 🔗 **[Scanning a Windows VM:Authenticated vs.
-Unauthenticated](https://github.com/galgalo12/-Scanning-a-Windows-VM-Authenticated-vs.-Unauthenticated/tree/main)**
+Bash)](https://github.com/Adamalme/-Scanning-a-Windows-VM-Authenticated-vs.-Unauthenticated/tree/main)**
 
 
 ### 🚨 Threat Hunting Labs
 
 * 🔗 **[Unauthorized TOR Browser Usage
-Detection](https://github.com/galgalo12/Threat-Hunt-Report-Unauthorized-TOR-Usage-)**
+Detection](https://github.com/Adamalme/Threat-Hunt-Report-Unauthorized-TOR-Usage-)**
 * 🔗 **[Lateral Movement Detection – SOC
-Lab](https://github.com/galgalo12/Threat-Hunting-for-Lateral-Movement-Attacks-SOC-Lab-)**
+Lab](https://github.com/Adamalme/Threat-Hunting-for-Lateral-Movement-Attacks-SOC-Lab-)**
 * 🔗 **[Brute Force Attacks on Internet‑Exposed
-VM](https://github.com/galgalo12/-Threat-Hunting-Brute-Force-Attacks-on-an-Internet-Exposed-Windows-Virtual-Machine-)**
+VM](https://github.com/Adamalme/-Threat-Hunting-Brute-Force-Attacks-on-an-Internet-Exposed-Windows-Virtual-Machine-)**
 * 🔗 **[Network Scanning
-Detection](https://github.com/galgalo12/Network-Scanning-Detection-Lab-Threat-Hunt-)**
+Detection](https://github.com/Adamalme/Network-Scanning-Detection-Lab-Threat-Hunt-)**
 * 🔗 **[Azure NSG Logs – Network Flow Threat
-Hunting](https://github.com/galgalo12/-Inspecting-Azure-NSG-Logs-Threat-Hunting-Network-Flow-Analysis)**
+Hunting](https://github.com/Adamalme/-Inspecting-Azure-NSG-Logs-Threat-Hunting-Network-Flow-Analysis)**
 * 🔗 **[Zero-Day-Ransomware-PwnCrypt-Outbreak](
-https://github.com/galgalo12/Investigation-Scenario-Zero-Day-Ransomware-PwnCrypt-Outbreak)**
-* 🔗 **[RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeove](https://github.com/galgalo12/RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeover)**
+https://github.com/Adamalme/Investigation-Scenario-Zero-Day-Ransomware-PwnCrypt-Outbreak)**
+* 🔗 **[RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeove](https://github.com/Adamalme/RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeover)**
 
 ### 📈 Data Loss Prevention (DLP)
 
 * 🔗 **[Suspected Data Exfiltration – Insider Threat
-Investigation](https://github.com/galgalo12/Suspected-Data-Exfiltration-Employee)**
+Investigation](https://github.com/Adamalme/Suspected-Data-Exfiltration-Employee)**
 
 ### 📊 Security Operations (SOC)
 
 * 🔗 **[Microsoft Sentinel Analytics Rule
-Creation](https://github.com/galgalo12/How-to-Create-an-Analytics-Rule-in-Microsoft-Sentinel-Detection-Rule-Configuration-)**
+Creation](https://github.com/Adamalme/How-to-Create-an-Analytics-Rule-in-Microsoft-Sentinel-Detection-Rule-Configuration-)**
 * 🔗 **[Azure Sentinel Workbook – Network
-Visualization](https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)**
+Visualization](https://github.com/Adamalme/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)**
 * 🔗 **[Sign‑In Log Analysis (MFA Abuse & Failed
-Logins)](https://github.com/galgalo12/Sign-In-Log-Analysis-Detecting-Failed-Logins-MFA-Abuse-and-Suspicious-Activity)**
-* 🔗 **[Microsoft-Sentinel-Analytic-Rules-Automation)](https://github.com/galgalo12/Microsoft-Sentinel-Analytic-Rules-Automation)**
+Logins)](https://github.com/Adamalme/Sign-In-Log-Analysis-Detecting-Failed-Logins-MFA-Abuse-and-Suspicious-Activity)**
+* 🔗 **[Microsoft-Sentinel-Analytic-Rules-Automation)](https://github.com/Adamalme/Microsoft-Sentinel-Analytic-Rules-Automation)**
 
 ### 🤖 AI + Cybersecurity with Python
 * 🔗 **[Python-CyberSecurity-Automation](https://github.com/galgalo12/Cyber-security-Python-Automation-/tree/main)**
