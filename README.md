@@ -74,7 +74,7 @@ Investigation](https://github.com/Adamalme/Suspected-Data-Exfiltration-Employee)
 ### 📊 Security Operations (SOC)
 
 * 🔗 **[Microsoft Sentinel Analytics Rule
-Creation](https://github.com/Adamalme/How-to-Create-an-Analytics-Rule-in-Microsoft-Sentinel-Detection-Rule-Configuration-)**
+Creation](https://github.com/Adamalme/-Microsoft-Sentinel-Analytics-Rule-Creation)**
 * 🔗 **[Azure Sentinel Workbook – Network
 Visualization](https://github.com/Adamalme/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)**
 * 🔗 **[Sign‑In Log Analysis (MFA Abuse & Failed
