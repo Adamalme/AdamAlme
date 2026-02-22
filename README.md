@@ -53,7 +53,7 @@ Bash)](https://github.com/Adamalme/-Scanning-a-Windows-VM-Authenticated-vs.-Unau
 ### 🚨 Threat Hunting Labs
 
 * 🔗 **[Unauthorized TOR Browser Usage
-Detection](https://github.com/Adamalme/Threat-Hunt-Report-Unauthorized-TOR-Usage-)**
+Detection](https://github.com/Adamalme/Threat-Hunt-Report-Unauthorized-TOR-Usage-CAPSTONE-)**
 * 🔗 **[Lateral Movement Detection – SOC
 Lab](https://github.com/Adamalme/Threat-Hunting-for-Lateral-Movement-Attacks-SOC-Lab-)**
 * 🔗 **[Brute Force Attacks on Internet‑Exposed
