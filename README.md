@@ -59,6 +59,7 @@ Lab](https://github.com/Adamalme/Threat-Hunting-for-Lateral-Movement-Attacks-SOC
 * 🔗 **[Brute Force Attacks on Internet‑Exposed
 VM](https://github.com/Adamalme/-Brute-Force-Attacks-on-Internet-Exposed-VM)**
 * 🔗 **[Network Scanning
+* 🔗 **[Potential Impossible Travel – Sentinel Detection & Investigation](https://github.com/Adamalme/-Potential-Impossible-Travel)
 Detection](https://github.com/Adamalme/-Network-Scanning-Detection-Lab-Threat-Hunt-)**
 * 🔗 **[Azure NSG Logs – Network Flow Threat
 Hunting](https://github.com/Adamalme/-Inspecting-Azure-NSG-Logs-Threat-Hunting-Network-Flow-Analysis)**
