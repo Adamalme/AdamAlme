@@ -57,7 +57,7 @@ Detection](https://github.com/Adamalme/Threat-Hunt-Report-Unauthorized-TOR-Usage
 * 🔗 **[Lateral Movement Detection – SOC
 Lab](https://github.com/Adamalme/Threat-Hunting-for-Lateral-Movement-Attacks-SOC-Lab-)**
 * 🔗 **[Brute Force Attacks on Internet‑Exposed
-VM](https://github.com/Adamalme/-Threat-Hunting-Brute-Force-Attacks-on-an-Internet-Exposed-Windows-Virtual-Machine-)**
+VM](https://github.com/Adamalme/-Brute-Force-Attacks-on-Internet-Exposed-VM)**
 * 🔗 **[Network Scanning
 Detection](https://github.com/Adamalme/Network-Scanning-Detection-Lab-Threat-Hunt-)**
 * 🔗 **[Azure NSG Logs – Network Flow Threat
