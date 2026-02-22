@@ -63,7 +63,7 @@ Detection](https://github.com/Adamalme/Network-Scanning-Detection-Lab-Threat-Hun
 * 🔗 **[Azure NSG Logs – Network Flow Threat
 Hunting](https://github.com/Adamalme/-Inspecting-Azure-NSG-Logs-Threat-Hunting-Network-Flow-Analysis)**
 * 🔗 **[Zero-Day-Ransomware-PwnCrypt-Outbreak](
-https://github.com/Adamalme/Investigation-Scenario-Zero-Day-Ransomware-PwnCrypt-Outbreak)**
+https://github.com/Adamalme/Zero-Day-Ransomware-PwnCrypt-Outbreak)**
 * 🔗 **[RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeove](https://github.com/Adamalme/RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeover)**
 
 ### 📈 Data Loss Prevention (DLP)
