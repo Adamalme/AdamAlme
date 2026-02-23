@@ -59,11 +59,11 @@ Lab](https://github.com/Adamalme/Threat-Hunting-for-Lateral-Movement-Attacks-SOC
 * 🔗 **[Brute Force Attacks on Internet‑Exposed
 VM](https://github.com/Adamalme/-Brute-Force-Attacks-on-Internet-Exposed-VM)**
 
-* 🔗 **[Network Scanning
+* 🔗 [Network Scanning](https://github.com/Adamalme/-Network-Scanning-Detection-Lab-Threat-Hunt-)
 
-* 🔗 **[Potential Impossible Travel – Sentinel Detection & Investigation](https://github.com/Adamalme/-Potential-Impossible-Travel)
+* 🔗 [Potential Impossible Travel – Sentinel Detection & Investigation](https://github.com/Adamalme/-Potential-Impossible-Travel)
 
-🔗 **[Azure NSG Logs – Network Flow Threat
+* 🔗 **[Azure NSG Logs – Network Flow Threat
 Hunting](https://github.com/Adamalme/-Inspecting-Azure-NSG-Logs-Threat-Hunting-Network-Flow-Analysis)**
 * 🔗 **[Zero-Day-Ransomware-PwnCrypt-Outbreak](
 https://github.com/Adamalme/Zero-Day-Ransomware-PwnCrypt-Outbreak)**
