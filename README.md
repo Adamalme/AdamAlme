@@ -39,13 +39,6 @@ enforcement
 * 🔗 **[Vulnerability Management Program
 Implementation](https://github.com/Adamalme/Vulnerability-Management-Program-Implementation)**
 
-### Vulnerability Management Policy Draft Creation
-
-This phase focuses on drafting a Vulnerability Management Policy as a starting point for stakeholder engagement. The initial draft outlines scope, responsibilities, and remediation timelines, and may be adjusted based on feedback from relevant departments to ensure practical implementation before final approval by upper management.  
-[Draft Policy](https://docs.google.com/document/d/1CLSWm1_9JL1oUqgyNNwtPXW6FzXJ7ddVnSAUQTyqC8I/edit?usp=drive_link)
-
-
-
 * 🔗 **[Programmatic Vulnerability Remediation (PowerShell &
 Bash)](https://github.com/Adamalme/-Scanning-a-Windows-VM-Authenticated-vs.-Unauthenticated/tree/main)**
 
