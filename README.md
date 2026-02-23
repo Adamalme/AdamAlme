@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/414fc354-8b67-49a5-a7a0-4cc6e88a4b6c" />
+
+
 # <a href="https://www.linkedin.com/in/adam-alme/">Adam Alme's</a> IT and Cybersecurity Project Portfolio
 
 [![LinkedIn](https://www.linkedin.com/in/adam-alme/)](https://www.linkedin.com/in/adam-alme/)
