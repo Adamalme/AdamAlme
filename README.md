@@ -37,7 +37,7 @@ enforcement
 ### ⚠️ Vulnerability Management Projects
 
 * 🔗 **[Vulnerability Management Program
-Implementation](https://github.com/Adamalme/Vulnerability-Management-Program-Implementation)**
+Implementation](https://github.com/Adamalme/Vulnerability-managements-lab)**
 
 * 🔗 **[Programmatic Vulnerability Remediation (PowerShell &
 Bash)](https://github.com/Adamalme/-Scanning-a-Windows-VM-Authenticated-vs.-Unauthenticated/tree/main)**
