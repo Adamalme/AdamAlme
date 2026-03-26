@@ -45,7 +45,7 @@ Implementation](https://github.com/Adamalme/Vulnerability-managements-lab)**
 * 🔗 **[Programmatic Vulnerability Remediation (PowerShell &
 Bash)](https://github.com/Adamalme/-Scanning-a-Windows-VM-Authenticated-vs.-Unauthenticated/tree/main)**
 
-* 🔗 **[Windows VM Scanning: Auth vs. Unauth]()**
+* 🔗 **[Windows VM Scanning: Auth vs. Unauth](https://github.com/Adamalme/Windows-VM-Scanning-Auth-vs.-Unauth)**
 
 
 
