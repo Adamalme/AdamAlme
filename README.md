@@ -84,7 +84,7 @@ Logins)](https://github.com/Adamalme/Sign-In-Log-Analysis-Detecting-Failed-Login
 * 🔗 **[Microsoft-Sentinel-Analytic-Rules-Automation)](https://github.com/Adamalme/Microsoft-Sentinel-Analytic-Rules-Automation)**
 
 ### 🤖 AI + Cybersecurity with Python
-* 🔗 **[Python-CyberSecurity-Automation]()**
+* 🔗 **[Python-CyberSecurity-Automation](https://github.com/Adamalme/wazuh-ai-soc-automation)**
 
 
 
