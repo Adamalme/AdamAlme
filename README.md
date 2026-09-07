@@ -72,6 +72,14 @@ https://github.com/Adamalme/Zero-Day-Ransomware-PwnCrypt-Outbreak)**
 
 * 🔗 **[Data-Exfil-Threat-Hunt-On-Windows-VM](https://github.com/Adamalme/Data-Exfil-Threat-Hunt-On-Windows-VM)**
 
+
+### ☁️ Cloud and IT Security Labs
+
+* 🔗 **[Active-Directory-and-Powershell-Automation-Lab ](https://github.com/Adamalme/Active-Directory-and-Powershell-Automation-Lab)**
+
+
+  
+
 ### 📊 Security Operations (SOC)
 
 * 🔗 **[Microsoft Sentinel Analytics Rule
