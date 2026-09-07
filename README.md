@@ -48,7 +48,6 @@ Bash)](https://github.com/Adamalme/-Scanning-a-Windows-VM-Authenticated-vs.-Unau
 * 🔗 **[Windows VM Scanning: Auth vs. Unauth](https://github.com/Adamalme/Windows-VM-Scanning-Auth-vs.-Unauth)**
 
 
-
 ### 🚨 Threat Hunting Labs
 
 * 🔗 **[Unauthorized TOR Browser Usage
@@ -57,6 +56,7 @@ Detection](https://github.com/Adamalme/Threat-Hunt-Report-Unauthorized-TOR-Usage
 Lab](https://github.com/Adamalme/Threat-Hunting-for-Lateral-Movement-Attacks-SOC-Lab-)**
 * 🔗 **[Brute Force Attacks on Internet‑Exposed
 VM](https://github.com/Adamalme/-Brute-Force-Attacks-on-Internet-Exposed-VM)**
+* 🔗 **[Incident-Report-Powershell-Suspicious-Web-Request](https://github.com/Adamalme/Incident-Report-Powershell-Suspicious-Web-Request)**
 
 * 🔗 [Network Scanning](https://github.com/Adamalme/-Network-Scanning-Detection-Lab-Threat-Hunt-)
 
