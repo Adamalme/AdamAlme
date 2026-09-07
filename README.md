@@ -70,8 +70,7 @@ https://github.com/Adamalme/Zero-Day-Ransomware-PwnCrypt-Outbreak)**
 
 ### 📈 Data Loss Prevention (DLP)
 
-* 🔗 **[Suspected Data Exfiltration – Insider Threat
-Investigation](https://github.com/Adamalme/Suspected-Data-Exfiltration-Employee)**
+* 🔗 **[Data-Exfil-Threat-Hunt-On-Windows-VM](https://github.com/Adamalme/Data-Exfil-Threat-Hunt-On-Windows-VM)**
 
 ### 📊 Security Operations (SOC)
 
