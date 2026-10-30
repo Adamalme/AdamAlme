@@ -64,6 +64,7 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 * 🔗 **[Microsoft Sentinel Analytic Rules Automation](https://github.com/Adamalme/Microsoft-Sentinel-Analytic-Rules-Automation)**
 * 🔗 **[Azure Sentinel Workbook – Network Visualization](https://github.com/Adamalme/Attack-Maps-and-Log-Visualization/tree/main)**
 * 🔗 **[Sign-In Log Analysis (MFA Abuse & Failed Logins)](https://github.com/Adamalme/Sign-In-Log-Analysis-Detecting-Failed-Logins-MFA-Abuse-and-Suspicious-Activity)**
+* 🔗 **[Azure Sentinel Detection-as-Code (Terraform)](https://github.com/Adamalme/azure-sentinel-dac)**
 
 ### 📈 Data Loss Prevention (DLP)
 
