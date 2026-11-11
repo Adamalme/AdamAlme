@@ -100,9 +100,9 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 
 ## 🏅 Certifications
 
-| Certification | Issuer |
-|---|---|
-| CompTIA Cybersecurity Analyst (CySA+) | CompTIA |
+| Certification | Issuer | Credential |
+|---|---|---|
+| CompTIA CySA+ | CompTIA | [Verify](https://www.credly.com/badges/e2e8afb1-3185-4955-9875-36c4d499d552/linked_in_profile) ||
 
 ---
 
